@@ -1,6 +1,6 @@
 # GeeksforGeeks — Java Practice 🧠☕
 
-This repository is an auto-synced archive of Java solutions to problems solved on [GeeksforGeeks](https://www.geeksforgeeks.org/). Every time a question is submitted on GFG, it gets pushed here automatically — so this repo doubles as a running log of Data Structures & Algorithms practice in Java.
+This repository is an auto-synced archive of Java solutions to problems solved on [GeeksforGeeks]([https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/profile/harkit07?tab=activity)). Every time a question is submitted on GFG, it gets pushed here automatically — so this repo doubles as a running log of Data Structures & Algorithms practice in Java.
 
 ## 📌 About
 
